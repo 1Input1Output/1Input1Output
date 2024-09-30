@@ -1,5 +1,7 @@
 <html>
 
+<style>
+    
 
 <tittle>Coding expectancy to exell at Java with React</tittle>
 
@@ -9,7 +11,7 @@
 DOM coding understading the path of file systems to interact with code at better understanding.
 
 </p>
-
+</style>
 
 
 
