@@ -1,23 +1,20 @@
-import GoogleLogo from './GoogleLogo';
-import SearchBox from './SearchBox';
-import SignInButton from './SignInButton';
-import NavBar from './NavBar';
-import SearchResults from './SearchResults';
-import Sidebar from './Sidebar';
+<html>
 
-import App() {
-    return(
-<div>
 
-<div>
-<GoogleLogo/>
-<SearchBox/>
-<SignInButton/>
-</div>
-<SearchResults/>
-<Sidebar/>
-</div>
+<tittle>Coding expectancy to exell at Java with React</tittle>
 
-    );
-}
-export default App;
+
+<p>
+    
+DOM coding understading the path of file systems to interact with code at better understanding.
+
+</p>
+
+
+
+
+
+
+
+    
+</html>
